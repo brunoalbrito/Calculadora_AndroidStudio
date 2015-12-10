@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="lbl1">Insert the first number:</string>
+    <string name="lbl2">Insert the second number:</string>
+    <string name="btnsoma">+</string>
+    <string name="btnsub">-</string>
+    <string name="btndiv">/</string>
+    <string name="btnmult">*</string>
+    <string name="btnclear">Clear</string>
+</resources>
